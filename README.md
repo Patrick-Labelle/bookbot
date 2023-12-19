@@ -1,2 +1,2 @@
 # bookbot
-boot.dev learning
+boot.dev first project
